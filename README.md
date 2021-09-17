@@ -33,8 +33,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Ikramah9859/testimonials-grid-section-main)
+- Live Site URL: [live site URL]( https://ikramah9859.github.io/testimonials-grid-section-main/)
 
 ## My process
 
